@@ -1,4 +1,9 @@
 # Mon Portfolio
+# [Qui suis-je et contact?](https://www.linkedin.com/in/jean-philippe-kokora)
+Je suis un amoureux de l'analyse de données.
+Ouvert d'esprit, je ne demande qu'à explorer les différents chemins qu'offre cette discipline.
+Pour en savoir un peu plus sur mon parcours, n'hésitez pas à consulter mon profil linkedin:
+[https://www.linkedin.com/in/jean-philippe-kokora](https://www.linkedin.com/in/jean-philippe-kokora)
 
 # [Projet 1 : Modéliser la consommation d’électricité](https://github.com/jipyk/modelisation_consommation_electrique) 
 [Source de données 2015 et 2016](https://data.seattle.gov/browse?q=Building%20Energy%20Benchmarking&sortBy=relevance)
